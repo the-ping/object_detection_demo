@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train1i</folder>
+	<filename>68.jpg</filename>
+	<path>/home/ping/Desktop/object_detection_demo/data/images/train1i/68.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>372</ymin>
+			<xmax>787</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>
