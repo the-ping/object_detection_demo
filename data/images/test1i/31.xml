@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2i</folder>
+	<folder>test1i</folder>
 	<filename>31.jpg</filename>
-	<path>/home/ping/Desktop/object_detection_demo/data/images/test2i/31.jpg</path>
+	<path>/home/ping/Desktop/object_detection_demo/data/images/test1i/31.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>405</xmin>
-			<ymin>8</ymin>
-			<xmax>690</xmax>
-			<ymax>587</ymax>
+			<xmin>308</xmin>
+			<ymin>12</ymin>
+			<xmax>786</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>133</ymin>
+			<xmax>689</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>296</ymin>
+			<xmax>511</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>219</ymin>
+			<xmax>797</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>12</ymin>
+			<xmax>234</xmax>
+			<ymax>138</ymax>
 		</bndbox>
 	</object>
 </annotation>

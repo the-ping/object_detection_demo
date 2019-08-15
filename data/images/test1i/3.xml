@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test2i</folder>
+	<folder>test1i</folder>
 	<filename>3.jpg</filename>
-	<path>/home/ping/Desktop/object_detection_demo/data/images/test2i/3.jpg</path>
+	<path>/home/ping/Desktop/object_detection_demo/data/images/test1i/3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>488</xmin>
-			<ymin>2</ymin>
-			<xmax>708</xmax>
-			<ymax>594</ymax>
+			<xmin>25</xmin>
+			<ymin>350</ymin>
+			<xmax>780</xmax>
+			<ymax>517</ymax>
 		</bndbox>
 	</object>
 </annotation>
