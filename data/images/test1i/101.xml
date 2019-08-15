@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test2i</folder>
+	<filename>61.jpg</filename>
+	<path>/home/ping/Desktop/object_detection_demo/data/images/test2i/61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>447</ymin>
+			<xmax>772</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
