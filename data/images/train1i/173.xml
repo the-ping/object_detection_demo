@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test1i remain</folder>
+	<filename>73.jpg</filename>
+	<path>/home/ping/Desktop/object_detection_demo/data/images/test1i remain/73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>238</ymin>
+			<xmax>792</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>265</ymin>
+			<xmax>503</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
