@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test1i</folder>
+	<folder>test2i</folder>
 	<filename>12.jpg</filename>
-	<path>/home/ping/Desktop/object_detection_demo/data/images/test1i/12.jpg</path>
+	<path>/home/ping/Desktop/object_detection_demo/data/images/test2i/12.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>crack</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5</xmin>
-			<ymin>243</ymin>
-			<xmax>800</xmax>
-			<ymax>358</ymax>
+			<xmin>134</xmin>
+			<ymin>409</ymin>
+			<xmax>786</xmax>
+			<ymax>593</ymax>
 		</bndbox>
 	</object>
 </annotation>
